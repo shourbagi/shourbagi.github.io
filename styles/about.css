@@ -1,0 +1,27 @@
+nav {
+	background-color: grey;
+}
+.navbar-brand.ron-title {
+	color: white;
+
+}
+.nav-item .nav-link.nav-menu-item{
+	color: white;
+}
+body {
+	background: url("../imgs/background2.jpg") no-repeat center fixed;
+	background-size: cover; 
+ }
+
+ .profile-pic {
+ 	width: 75%;
+ 	height: 75%;
+ }
+
+ .icon {
+ 	color: grey;
+ 	margin: 0 5px;
+ }
+.card {
+	margin-top: 50px
+}

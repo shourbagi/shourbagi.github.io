@@ -1,0 +1,27 @@
+nav {
+	background-color: grey;
+}
+.navbar-brand.ron-title {
+	color: white;
+
+}
+.nav-item .nav-link.nav-menu-item{
+	color: white;
+}
+
+body {
+	background: url("../imgs/background1.jpg") no-repeat center fixed;
+	background-size: cover;
+}
+
+.homepage-text{
+	font-size: 350%;
+	font-family: Times;
+}
+
+.container{
+	position: relative;
+	text-align: center;
+	color: white;
+	margin-top: 200px;
+}
